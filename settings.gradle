@@ -1,1 +1,1 @@
-include ':app', ':definedviewdemo', ':viewpagerdemo', ':viewpagerdemo', ':alertmanagerdemo'
+include ':app', ':definedviewdemo', ':viewpagerdemo', ':viewpagerdemo', ':alertmanagerdemo', ':recycleviewdemo'
