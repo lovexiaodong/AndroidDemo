@@ -3,8 +3,8 @@
     android:shape="rectangle" >
 
     <!-- 填充的颜色 -->
-    <solid android:color ="#000000"/>
+    <solid android:color ="#01f1f5f2"/>
 
     <!--  线条大小 -->
-    <size android:height ="1dp" android:width ="1dp"/>
+    <size android:height ="2dp" android:width ="2dp"/>
 </shape>
